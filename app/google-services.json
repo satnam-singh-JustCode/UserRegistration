@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506705165752",
+    "project_id": "userregisterfirebase-d9700",
+    "storage_bucket": "userregisterfirebase-d9700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506705165752:android:e4bea5df1896f2b605e34d",
+        "android_client_info": {
+          "package_name": "com.example.userregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506705165752-ea3d5fhn8ho2h9uad0o4eehagdvaklil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLqW45pPyeS0i5ziXbA-ivT41Bi4fa6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506705165752-ea3d5fhn8ho2h9uad0o4eehagdvaklil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
